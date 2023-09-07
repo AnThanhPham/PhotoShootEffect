@@ -1,0 +1,10 @@
+/* Forte */
+@font-face {
+    font-family: 'Forte';
+    src: url('Forte/ForteMT.woff2') format('woff2'),
+        url('Forte/ForteMT.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
